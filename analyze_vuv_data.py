@@ -13,8 +13,8 @@ plt.rcParams["font.size"] = 11
 plt.rcParams["legend.title_fontsize"] = "x-small"
 
 # Parameters ------------
-filename = "VUV Spectra/20230606 - KML VUV spectra pt 7/vuv-0125.csv"
-al2o3_responsivity_filename = "Al2O3_calibration_data.txt"
+filename = "Spectrum_data/vuv-0125.csv"
+al2o3_responsivity_filename = "Photodiode_calibration_data/Al2O3_calibration_data.txt"
 fundamental_wl = 1030  # [nm]
 
 # Plotting parameters ---
